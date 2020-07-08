@@ -1,5 +1,5 @@
 import java.io.*;
-import java.io.Console;
+
 class Vote
 {
     public void name(String name)
